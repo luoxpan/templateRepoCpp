@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
     "files.associations": {
         ".clang-format": "yaml",
@@ -97,7 +96,4 @@
         "netfwd": "cpp"
     },
     "cmake.buildTask": true
-=======
-    "cmake.sourceDirectory": "D:/desktop/CPP/templateRepoCpp"
->>>>>>> master
 }

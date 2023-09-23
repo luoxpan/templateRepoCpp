@@ -9,5 +9,10 @@ test 中的.cpp文件不要引入include中的.h文件，且test中的每一个.
 
 ## 使用说明
 
-`git clone https://gitee.com/luoxpan/templateRepoCpp.git`
-VSCODE 中Ctrl+Shift+P , 输入CMake,选择CMake:配置，选择配置即可
+`git clone https://github.com/luoxpan/templateRepeCpp.git`
+VSCODE 中Ctrl+Shift+P , 输入CMake,选择CMake:配置，选择配置即可,请确保已安装mingw编译包，并将其目录下的bin文件夹加入环境变量PATH中
+
+
+
+
+
